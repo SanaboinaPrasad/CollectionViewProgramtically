@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "21e5d57d5338979e56127476a5510756"
+build_time: [1541574238, 308089000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/collection/propercollectionview.swift": [1541574237, 0]
+  "/Users/sriramprasad/Dev/rough/collection/collection/AppDelegate.swift": [1541569544, 0]
